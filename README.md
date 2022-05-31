@@ -1,6 +1,6 @@
 # Quadcopter
 
-This repository includes a 6DOF dynamic model for a quadcopter in the Simulink environment. The formulas are adopted from the reference. 
+This repository includes a 6DOF dynamic model for a quadcopter in the Simulink environment. The formulas are adopted from the reference mentioned below. 
 
 ## References
 
